@@ -1,4 +1,4 @@
-## I'm [Arwaz Khan](https://arwazkhan189.github.io/portfolio/) 😎
+## I'm [Arwaz Khan](https://arwazkhan189.github.io/portfolio/) 😎 
 
 <a href="https://github.com/arwazkhan189">
   <img align="left" alt="Arwaz's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -34,6 +34,9 @@
 
 - 🥅 2020 Goals: Enhance my skills .
 
+
+<br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
+
 **Languages and Tools:** &nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -44,9 +47,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
