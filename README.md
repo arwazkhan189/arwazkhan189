@@ -17,6 +17,10 @@
   <img align="left" alt="Arwaz's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<a href="https://dev.to/arwazkhan189">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Arwaz Khan 's DEV Profile" height="30" width="30">
+</a>
+
 <br />
 
 - 💻 I’m currently working on **Python Programming & Front-End Projects**
