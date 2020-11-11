@@ -1,4 +1,4 @@
-## I'm [Arwaz Khan](https://arwazkhan189.github.io/portfolio/) 😎 
+## I'm [Arwaz Khan](http://arwazkhan.me/) 😎 
 
 <a href="https://github.com/arwazkhan189">
   <img align="left" alt="Arwaz's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -34,7 +34,7 @@
 - 📫 How to reach me: arwazkhan189@gmail.com <br>
 
 - ☑ Visit my blog -> <a href='https://wdforbeginner.blogspot.com/'>Click here !</a> <br>
-     and Portfolio -> <a href='https://arwazkhan189.github.io/portfolio/'>Click here !</a>
+     and Portfolio -> <a href='http://arwazkhan.me/'>Click here !</a>
 
 - 🥅 2020 Goals: Enhance my skills .
 
@@ -54,6 +54,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=radical&line_height=21" alt="Arwaz's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=21" alt="Arwaz's github stats"/>
 </p>
 <br>
