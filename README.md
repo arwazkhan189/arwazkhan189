@@ -1,4 +1,4 @@
-## I'm [Arwaz Khan](http://arwazkhan.me/) 😎 
+## I'm [Arwaz Khan](https://arwazkhan.me/) 😎 
 
 <a href="https://github.com/arwazkhan189">
   <img align="left" alt="Arwaz's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -34,7 +34,7 @@
 - 📫 How to reach me: arwazkhan189@gmail.com <br>
 
 - ☑ Visit my blog -> <a href='https://wdforbeginner.blogspot.com/'>Click here !</a> <br>
-     and Portfolio -> <a href='http://arwazkhan.me/'>Click here !</a>
+     and Portfolio -> <a href='https://arwazkhan.me/'>Click here !</a>
 
 - 🥅 2020 Goals: Enhance my skills .
 
