@@ -55,7 +55,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=jolly&line_height=10&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=21" alt="Arwaz's github stats"/>
-</p>
 <br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula" alt="Arwaz's github trophy"/>
-![trophy](https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula)
+</p>
+<br>
