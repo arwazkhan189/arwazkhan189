@@ -59,4 +59,4 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula" alt="Arwaz's github trophy"/>
 </p>
 <br>
-**Show Some ❤** , **⭐ my repositories... 😊**
+**Show Some**❤, ⭐ **my repositories...** 😊
