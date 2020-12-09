@@ -59,4 +59,9 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula" alt="Arwaz's github trophy"/>
 </p>
 <br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/arwaz189/count.svg" />
+</p>
+
 Show Some ❤, ⭐ my repositories... 😊 <br>
