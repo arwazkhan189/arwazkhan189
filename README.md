@@ -25,9 +25,9 @@
 
 <!-- 💻 I’m currently working on **Python Programming & Front-End Projects**-->
 
-- 📖 I’m currently learning **Front-End Development & Competitive Programming**
+- 📖 I’m currently learning **Web Development & Data Structures and Algorithms **
 
-- 👯 I’m looking to collaborate on **OpenSource** projects on **web developement & Data structure**
+- 👯 I’m looking to collaborate on **OpenSource** projects on **Web developement & Python programming**
 
 - 🤔 I’m looking for help with my **Web Development & Programming** skills.
 
@@ -36,7 +36,7 @@
 - ☑ Visit my blog -> <a href='https://wdforbeginner.blogspot.com/'>Click here !</a> <br>
      and Portfolio -> <a href='https://arwazkhan.me/'>Click here !</a>
 
-- 🥅 2020 Goals: Enhance my skills .
+- 🥅 2021 Goals: Enhance my skills Coding Skills and to be more productive.
 
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
