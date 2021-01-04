@@ -23,7 +23,7 @@
 
 <br />
 
-- 💻 I’m currently working on **Python Programming & Front-End Projects**
+<!-- 💻 I’m currently working on **Python Programming & Front-End Projects**-->
 
 - 📖 I’m currently learning **Front-End Development & Competitive Programming**
 
