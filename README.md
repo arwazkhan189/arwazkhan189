@@ -33,8 +33,7 @@
 
 - 📫 How to reach me: arwazkhan189@gmail.com <br>
 
-- ☑ Visit my blog -> <a href='https://wdforbeginner.blogspot.com/'>Click here !</a> <br>
-     and Portfolio -> <a href='https://arwazkhan.me/'>Click here !</a>
+- ☑ Visit my blog -> <a href="https://wdforbeginner.blogspot.com/"><img align="left" alt="Arwaz's Twitter" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/blogger%20red.svg" /></a>
 
 - 🥅 2021 Goals: Enhance my skills Coding Skills and to be more productive.
 
