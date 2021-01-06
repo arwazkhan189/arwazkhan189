@@ -25,7 +25,7 @@
 
 <!-- 💻 I’m currently working on **Python Programming & Front-End Projects**-->
 
-- 📖 I’m currently learning **Web Development & Data Structures and Algorithms **
+- 📖 I’m currently learning **Web Development & Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **OpenSource** projects on **Web developement & Python programming**
 
