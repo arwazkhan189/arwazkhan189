@@ -7,10 +7,10 @@
   <img align="left" alt="Arwaz's Linkdein" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/linkedin.svg" />
 </a>
 <a href="https://instagram.com/iamarwaz">
-  <img align="left" alt="Arwaz's Instagram" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/Instagram-Glyph-Color-Logo.wine.svg" />
+  <img align="left" alt="Arwaz's Instagram" width="32px" src="https://github.com/arwazkhan189/my-images/blob/main/Instagram-Glyph-Color-Logo.wine.svg" />
 </a>
 <a href="https://www.facebook.com/arwazkhan189">
-  <img align="left" alt="Arwazs Facebook" width="16px" src="https://github.com/arwazkhan189/my-images/blob/main/facebook.png" />
+  <img align="left" alt="Arwazs Facebook" width="32px" src="https://github.com/arwazkhan189/my-images/blob/main/facebook.png" />
 </a>
 
 <a href="https://twitter.com/arwazkhan189">
