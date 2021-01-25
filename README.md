@@ -1,4 +1,4 @@
-<img align="left" alt="Arwaz's Octocat"  width='250px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/unnamed.png" />
+<img align="left" alt="Arwaz's Octocat"  width='220px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/unnamed.png" />
 
 ## Hello , I'm [Arwaz Khan](https://arwazkhan.me/) 😎
 
@@ -10,6 +10,7 @@
 &nbsp;&nbsp;**}**
 
 <br>
+
 <img align="left" alt="collabocats"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/collabocats.jpg" />
 <img align="right" alt="supportcat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/supportcat.png" />
 <p align="center">
@@ -18,7 +19,7 @@
 <a href="https://instagram.com/iamarwaz"><img src="https://img.shields.io/badge/-@arwazkhan189-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/arwazkhan189"><img src="https://img.shields.io/badge/-Arwaz%20Khan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:arwazkhan189@gmail.com"><img src="https://img.shields.io/badge/-arwazkhan189@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/arwazkhan189"><img src="https://img.shields.io/badge/-@arwazkhan189-informational?style=flat&logo=Twitter&logoColor=white"/></a><br>
+<a href="https://twitter.com/arwazkhan189"><img src="https://img.shields.io/badge/-@arwazkhan189-informational?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://github.com/arwazkhan189"><img  alt="Arwaz's Github" width="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://dev.to/arwazkhan189" ><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  alt="Arwaz Khan 's DEV Profile"  width="40px"></a>
 </p>
