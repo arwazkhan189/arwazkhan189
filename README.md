@@ -2,22 +2,16 @@
 
 ## Hello , I'm [Arwaz Khan](https://arwazkhan.me/) 😎
 
-<code>
-  #include <stdio.h> 
-  int main()
-  {
-    printf(); 
-  }
-</code>
+<code></code>
 <br>
 <p align="center">
-  <code>Connect With me 😊</code>
-  
+<code>Connect With me 😊</code><br><br>
 <a href="https://www.linkedin.com/in/arwaz-khan-bb52a1134/"><img src="https://img.shields.io/badge/-Arwaz%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/iamarwaz"><img src="https://img.shields.io/badge/-@arwazkhan189-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/arwazkhan189"><img src="https://img.shields.io/badge/-Arwaz%20Khan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:arwazkhan189@gmail.com"><img src="https://img.shields.io/badge/-arwazkhan189@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/arwazkhan189"><img src="https://img.shields.io/badge/-@arwazkhan189-informational?style=flat&logo=Twitter&logoColor=white"/></a>
+<br>
 <a href="https://github.com/arwazkhan189"><img  alt="Arwaz's Github" width="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://dev.to/arwazkhan189" ><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  alt="Arwaz Khan 's DEV Profile"  width="40px"></a>
 </p>
