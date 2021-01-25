@@ -49,6 +49,8 @@
   
   ![Visitor](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
   <img src="https://badges.pufler.dev/years/arwazkhan189">
+  <img src="https://badges.pufler.dev/repos/arwazkhan189">
+  <img src="https://badges.pufler.dev/gists/arwazkhan189">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=jolly&line_height=10&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=21" alt="Arwaz's github stats"/>
@@ -57,7 +59,6 @@
 </p>
 
 <br>
-## Visitors
 <a href="https://arwazkhan.me/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arwazkhan189&repo=Portfolio-2&theme=material-palenight" />
 </a>
