@@ -64,7 +64,7 @@
 ## Favourite Song
 <img  align='left' alt="catstello"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/catstello.png" />
 <img  align='right' alt="filmtocat"  width='200px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/filmtocat.png" />
-<img  align='right' alt="music gif"  width='400px' src="https://github.com/arwazkhan189/my-images/blob/main/music.gif" />
+<img  align='right' alt="music gif"  width='400px' height='200px' src="https://github.com/arwazkhan189/my-images/blob/main/music.gif" />
 
 | Songs      | Movies |
 | ----------- | ----------- |
