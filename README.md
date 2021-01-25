@@ -47,6 +47,7 @@
 <br>
 <p> <img  align='left' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/ironcat.jpg" /><img  align='center' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/spidertocat.png" /><img  align='center' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/xtocat.jpg" /></p> 
 
+# GitHub Stats:
 <p align="center">
   
   ![Visitor](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
@@ -57,3 +58,12 @@
   <br>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula" alt="Arwaz's github trophy"/>
 </p>
+<br>
+
+## Favourite Song
+<img  align='left' alt="Arwaz's Octocat"  width='200px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/catstello.png" />
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
