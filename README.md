@@ -44,23 +44,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 <code><img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/vscode.jfif"></code>
 <code><img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/wamp.png"></code>
+<br>
 
-
-
-## GitHub Stats :
 <p align="center">
   
   ![Visitor](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
   <img src="https://badges.pufler.dev/years/arwazkhan189">
-  <img src="https://badges.pufler.dev/repos/arwazkhan189">
-  
+  <img src="https://badges.pufler.dev/repos/arwazkhan189"><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=jolly&line_height=10&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=21" alt="Arwaz's github stats"/>
   <br>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula" alt="Arwaz's github trophy"/>
 </p>
-
-<br>
-<a href="https://arwazkhan.me/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arwazkhan189&repo=Portfolio-2&theme=material-palenight" />
-</a>
