@@ -1,4 +1,4 @@
-<img align="left" alt="Arwaz's Octocat"  width='300px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/unnamed.png" />
+<img align="left" alt="Arwaz's Octocat"  width='250px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/unnamed.png" />
 
 ## Hello , I'm [Arwaz Khan](https://arwazkhan.me/) 😎
 
@@ -9,6 +9,7 @@
 &nbsp;&nbsp;&nbsp; **return 0 ;** <br>
 &nbsp;&nbsp;**}**
 
+<br>
 <p align="center">
 <code>Connect With me 😊</code><br><br>
 <a href="https://www.linkedin.com/in/arwaz-khan-bb52a1134/"><img src="https://img.shields.io/badge/-Arwaz%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
