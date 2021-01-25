@@ -45,8 +45,7 @@
 <code><img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/vscode.jfif"></code>
 <code><img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/wamp.png"></code>
 <br>
-
-<p> <img  align='left' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/ironcat.jpg" /><img  align='center' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/spidertocat.png" /><img  align='right' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/xtocat.jpg" /></p> 
+<p> <img  align='left' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/ironcat.jpg" /><img  align='center' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/spidertocat.png" /><img  align='center' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/xtocat.jpg" /></p> 
 
 <p align="center">
   
