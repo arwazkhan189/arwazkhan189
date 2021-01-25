@@ -1,11 +1,16 @@
 <img align="left" alt="Arwaz's Octocat"  width='300px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/unnamed.png" />
 
 ## Hello , I'm [Arwaz Khan](https://arwazkhan.me/) 😎
+<code>
+  
+</code>
 <p align="center">
+  <code>Connect With me 😊</code><br>
 <a href="https://www.linkedin.com/in/arwaz-khan-bb52a1134/"><img src="https://img.shields.io/badge/-Arwaz%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/iamarwaz"><img src="https://img.shields.io/badge/-@arwazkhan189-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/arwazkhan189"><img src="https://img.shields.io/badge/-Arwaz%20Khan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:arwazkhan189@gmail.com"><img src="https://img.shields.io/badge/-arwazkhan189@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/arwazkhan189"><img src="https://img.shields.io/badge/-@arwazkhan189-informational?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ## Languages and Tools:
@@ -41,8 +46,6 @@
 </a>
 
 <br>
-### 🤝🏻 &nbsp;Connect with Me
-
 
 ## Visitors
 
