@@ -6,8 +6,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
 
 ## Languages and Tools:
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Love to Code in Python.</code>
-<code> Comfortable with VSCode<img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/vscode.jfif"></code><br>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Love to Code in Python.</code><br>
 <img align="right" alt="Arwaz's Octocat"  width='120px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/pythocat.png" />
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -21,6 +20,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
+<code><img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/vscode.jfif"></code>
 
 
 
