@@ -64,6 +64,7 @@
 ## Favourite Song
 <img  align='left' alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/catstello.png" />
 <img  align='right' alt="Arwaz's Octocat"  width='200px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/filmtocat.png" />
+<img  align='right' alt="Arwaz's Octocat"  width='400px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/music.gif" />
 
 | Songs      | Movies |
 | ----------- | ----------- |
