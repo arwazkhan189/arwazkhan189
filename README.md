@@ -2,8 +2,13 @@
 
 ## Hello , I'm [Arwaz Khan](https://arwazkhan.me/) 😎
 
-<code></code>
-<br>
+**#include <stdio.h>** <br>
+&nbsp;**int main()** <br>
+&nbsp;&nbsp;**{** <br>
+&nbsp;&nbsp;&nbsp; **printf("Hello !, I am Arwaz Khan.") ;** <br>
+&nbsp;&nbsp;&nbsp; **return 0 ;** <br>
+&nbsp;&nbsp;**}**
+
 <p align="center">
 <code>Connect With me 😊</code><br><br>
 <a href="https://www.linkedin.com/in/arwaz-khan-bb52a1134/"><img src="https://img.shields.io/badge/-Arwaz%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -15,6 +20,7 @@
 <a href="https://github.com/arwazkhan189"><img  alt="Arwaz's Github" width="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://dev.to/arwazkhan189" ><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  alt="Arwaz Khan 's DEV Profile"  width="40px"></a>
 </p>
+<br>
 
 ## Languages and Tools :
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Love to Code in Python.</code><br>
