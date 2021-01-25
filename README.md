@@ -3,7 +3,7 @@
 ## Hello , I'm [Arwaz Khan](https://arwazkhan.me/) 😎
 
 **#include <stdio.h>** <br>
-&nbsp;**int main()** <br>
+&nbsp;**int main( )** <br>
 &nbsp;&nbsp;**{** <br>
 &nbsp;&nbsp;&nbsp; **printf("Hello !, I am Arwaz Khan.") ;** <br>
 &nbsp;&nbsp;&nbsp; **return 0 ;** <br>
