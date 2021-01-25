@@ -10,6 +10,8 @@
 &nbsp;&nbsp;**}**
 
 <br>
+<img align="left" alt="Arwaz's Octocat"  width='200px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/collabocats.jpg" />
+<img align="right" alt="Arwaz's Octocat"  width='200px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/supportcat.png" />
 <p align="center">
 <code>Connect With me 😊</code><br><br>
 <a href="https://www.linkedin.com/in/arwaz-khan-bb52a1134/"><img src="https://img.shields.io/badge/-Arwaz%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -23,6 +25,7 @@
 </p>
 <br>
 
+<img  align='left' alt="Arwaz's Octocat"  width='100px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/codercat.jpg" /><br>
 ## Languages and Tools :
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">Love to Code in Python.</code><br>
 <img align="right" alt="Arwaz's Octocat"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/pythocat.png" />
@@ -41,6 +44,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 <code><img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/vscode.jfif"></code>
 <code><img height="40" src="https://github.com/arwazkhan189/my-images/blob/main/wamp.png"></code>
+<img  align='left' alt="Arwaz's Octocat"  width='100px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/Fintechtocat.png" />
+<br>
 
 
 
@@ -50,7 +55,6 @@
   ![Visitor](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
   <img src="https://badges.pufler.dev/years/arwazkhan189">
   <img src="https://badges.pufler.dev/repos/arwazkhan189">
-  <img src="https://badges.pufler.dev/gists/arwazkhan189">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=jolly&line_height=10&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=21" alt="Arwaz's github stats"/>
