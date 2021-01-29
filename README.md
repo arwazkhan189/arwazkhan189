@@ -5,7 +5,7 @@
 **#include <stdio.h>** <br>
 &nbsp;**int main( )** <br>
 &nbsp;&nbsp;**{** <br>
-&nbsp;&nbsp;&nbsp; **printf("Hello !, I am Arwaz Khan.") ;** <br>
+&nbsp;&nbsp;&nbsp; **printf(" Hello !, I am Arwaz Khan. ") ;** <br>
 &nbsp;&nbsp;&nbsp; **return 0 ;** <br>
 &nbsp;&nbsp;**}**
 
@@ -61,12 +61,12 @@
 </p>
 <br>
 
-## Favourite Song
+## Favourite Song & Movies
 <img  align='left' alt="catstello"  width='150px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/catstello.png" />
 <img  align='right' alt="filmtocat"  width='200px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/filmtocat.png" />
 <img  align='center' alt="music gif"  width='400px' height='100px' src="https://github.com/arwazkhan189/my-images/blob/main/music.gif" />
 
-| Songs      | Movies |
+| Song       | Movies |
 | ----------- | ----------- |
 | [Attention -  Charlie Puth](https://www.youtube.com/watch?v=nfs8NYg7yQM)      | [Avengers Series](https://en.wikipedia.org/wiki/Avengers:_Endgame) ,[Ironman Series](https://en.wikipedia.org/wiki/Iron_Man_(2008_film))|
 
