@@ -51,8 +51,7 @@
 # GitHub Stats:
 <p align="center">
   
-  ![Visitor](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
-  
+  ![Visitor](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge) <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=jolly&line_height=10&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=20" alt="Arwaz's github stats"/>
   <br>
