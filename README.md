@@ -55,7 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=jolly&line_height=10&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=20" alt="Arwaz's github stats"/>
   <br>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&theme=dracula" alt="Arwaz's github trophy"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&column=7&theme=dracula&no-frame=true" alt="Arwaz's github trophy"/>
 </p>
 <br>
 
