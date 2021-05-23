@@ -1,6 +1,6 @@
 <img align="center" alt="Arwaz's banner"  src="https://github.com/arwazkhan189/arwazkhan189/blob/master/ARWAZ%20KHAN.gif" />
-<img align="left" alt="Arwaz's Octocat"  width='120px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/unnamed.png" />
-<img align="right" alt="supportcat"  width='120px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/supportcat.png" />
+<img align="left" alt="Arwaz's Octocat"  width='120px' src="https://github.com/arwazkhan189/arwazkhan189/blob/master/myoctocat.png" />
+<img align="right" alt="supportcat"  width='120px' src="https://github.com/arwazkhan189/arwazkhan189/blob/master/supportcat.png" />
 
 <p align="center">
 <code>Connect With me 😊</code><br><br>
