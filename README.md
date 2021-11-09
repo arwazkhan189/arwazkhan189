@@ -12,8 +12,8 @@
 <a href="https://dev.to/arwazkhan189" ><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"  alt="Arwaz Khan 's DEV Profile"  width="20px"></a>
 </p><br>
 
-<p align="center">
+<!--<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwazkhan189&theme=jolly&line_height=10&hide_langs_below=1&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=arwazkhan189&show_icons=true&theme=jolly&line_height=20" alt="Arwaz's github stats"/>  
   <img  src="https://github-profile-trophy.vercel.app/?username=arwazkhan189&column=7&theme=dracula&no-frame=true" alt="Arwaz's github trophy"/> <br>
-</p>
+</p>-->
 <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=arwazkhan189&theme=dracula&hide_border=true&currStreakNum=FFFFFF&stroke=7952B3&ring=DB1212DE&fire=D13920&border=7952B3&sideNums=FFFFFF&currStreakLabel=B39C4D&sideLabels=B39C4D&dates=FFFFFF" alt="Arwaz's Streak"/> <br>-->
