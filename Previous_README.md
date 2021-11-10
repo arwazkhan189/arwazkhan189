@@ -1,6 +1,6 @@
 <img align="left" alt="Arwaz's Octocat"  width='220px' src="https://github.com/arwazkhan189/my-images/blob/main/octocat/unnamed.png" />
 
-## Hello , I'm [Arwaz Khan](https://arwazkhan.me/) 😎
+## Hello , I'm [Arwaz Khan](https://arwazkhan189.github.io/) 😎
 
 **#include <stdio.h>** <br>
 &nbsp;**int main( )** <br>
