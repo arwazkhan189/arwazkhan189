@@ -1,4 +1,4 @@
-<img align="center" alt="Arwaz's banner"  src="https://github.com/arwazkhan189/arwazkhan189/blob/master/ARWAZ%20KHAN.gif" />
+<img align="center" alt="Arwaz's banner"  src="https://github.com/arwazkhan189/arwazkhan189/blob/master/Banner.gif" />
 <img align="left" alt="Arwaz's Octocat"  width='120px' src="https://github.com/arwazkhan189/arwazkhan189/blob/master/myoctocat.png" />
 <img align="right" alt="supportcat"  width='120px' src="https://github.com/arwazkhan189/arwazkhan189/blob/master/supportcat.png" />
 
